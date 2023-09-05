@@ -1,0 +1,1 @@
+% This is a phasor type SMIB model with PSS control
